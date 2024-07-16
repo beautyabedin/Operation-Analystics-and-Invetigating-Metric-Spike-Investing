@@ -1,4 +1,4 @@
-# Operation-Analystics-and-Invetigating-Metric-SpikeInvesting
+# Operation-Analystics-and-Invetigating-Metric-Spike Investing
 
 ## Project Description :
 
